@@ -1,4 +1,3 @@
-// routes/+page.svelte
 <script lang="ts">
   import { page } from '$app/stores';
   import { trpc } from '$lib/trpc/client';
